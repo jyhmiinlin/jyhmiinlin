@@ -19,7 +19,7 @@ NSAID有哪些？
 * Naproxen
 * Indomethacin
 * Sulindac
-* 日本購買的EVE
+* 日本購買的EVE, loxoprofen
 * IB改源
 * Celecoxib
 * Etoricoxib
