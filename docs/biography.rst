@@ -7,8 +7,7 @@
 .. image:: ../media/BMEiCon.jpeg
    :align: center
    :alt: BMEiCon
-林醫師是IEEE高級會員，也曾是歐洲磁共振醫學與生物學學會（ESMRMB）的成員。他在該領域的工作和奉獻使他在全球範圍內獲得了廣泛的尊重和認可。
-
+林醫師是IEEE高級會員，也曾是歐洲磁共振醫學與生物學學會（ESMRMB）的成員。他在該領域持續的工作使他獲得了認可。
 林醫師的研究主要集中在以下幾個領域：
 
 * 醫學影像處理中的計算方法與演算法開發。
@@ -21,7 +20,8 @@
 您可以在Google Scholar、IEEE Xplore或PubMed等找到他的相關發表研究。
 
     
-除了研究工作，林醫師在臨床社區服務與醫學護理與人工智慧相關期刊審稿上也有貢獻，如協助審查Journal of Clinical Medicine, BMC Nursing, Medicine, IEEE TIP, IEEE TCI等期刊。
+除了研究工作，林醫師在臨床科技與醫學相關期刊審稿上也有貢獻，
+如協助審查Journal of Clinical Medicine, BMC Nursing, Medicine, IEEE TIP, IEEE TCI, Sensors, Tomography, Journal of Imaging等期刊。
 
 
 .. image:: ../media/talk.jpeg
