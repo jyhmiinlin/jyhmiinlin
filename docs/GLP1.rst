@@ -1,4 +1,4 @@
-減肥藥Glucagon-like peptide-1(GLP-1)
+腸泌素Glucagon-like peptide-1(GLP-1)
 =====
 
 .. _semaglutide:

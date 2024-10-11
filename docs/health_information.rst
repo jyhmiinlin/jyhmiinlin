@@ -10,4 +10,5 @@
    gout
    NSAID
    DASH
+   GLP1
    law
