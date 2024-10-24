@@ -56,6 +56,9 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 # extensions = [ "sphinx_rtd_theme", ]
 # html_theme = "typo3"
 
+extensions = ['sphinx_sitemap']
+html_baseurl = 'https://jml86.readthedocs.io/zh-tw/latest/'
+
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
