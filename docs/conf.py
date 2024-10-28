@@ -63,8 +63,8 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 # a list of builtin themes.
 #
 # html_theme = "sphinx_rtd_theme"
-# html_theme = "alabaster"
-html_theme = 'sphinx_documatt_theme'
+html_theme = "alabaster"
+# html_theme = 'sphinx_documatt_theme'
 # import sphinx_bootstrap_theme
 # html_theme = 'insipid'
 # html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
