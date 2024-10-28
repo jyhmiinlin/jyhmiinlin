@@ -65,7 +65,7 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 # html_theme = "sphinx_rtd_theme"
 # html_theme = "alabaster"
 # import sphinx_bootstrap_theme
-html_theme = 'piccolo_theme'
+html_theme = 'insipid'
 # html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 
 # Add any paths that contain custom static files (such as style sheets) here,
