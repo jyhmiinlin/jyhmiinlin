@@ -57,5 +57,3 @@ sphinxcontrib-serializinghtml==1.1.5
 urllib3==1.26.9
     # via requests
 sphinx-sitemap==2.6.0
-piccolo-theme==0.24.0
-insipid-sphinx-theme
