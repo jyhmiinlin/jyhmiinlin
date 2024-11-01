@@ -20,7 +20,7 @@
 您可以在Google Scholar、IEEE Xplore或PubMed等找到他的相關發表研究。
 
     
-除了研究工作，林醫師持續協助審稿臨床科技與醫學相關期刊，包括但不限於以下期刊:
+除了研究工作，林醫師持續協助審稿臨床科技與醫學相關期刊，包括(但不限於)下列期刊:
 
 * IEEE TCI
 * Journal of Clinical Medicine
