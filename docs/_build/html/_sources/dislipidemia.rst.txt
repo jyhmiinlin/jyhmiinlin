@@ -1,6 +1,9 @@
 血脂肪過高
 =====
 
+.. meta::
+   :robots: index, nofollow
+
 
 .. _dislipidemia:
 

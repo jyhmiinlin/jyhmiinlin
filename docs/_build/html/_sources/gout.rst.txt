@@ -1,6 +1,10 @@
 尿酸過高
 =====
 
+.. meta::
+   :robots: index, nofollow
+
+
 .. _gout:
 
 

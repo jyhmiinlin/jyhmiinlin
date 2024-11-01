@@ -1,5 +1,7 @@
 得舒飲食(DASH)
 =====
+.. meta::
+   :robots: index, nofollow
 
 .. _dash:
 
