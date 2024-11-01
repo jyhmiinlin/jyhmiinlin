@@ -34,6 +34,7 @@
 * Animals
 * Applied System Innovation
 * International Journal of Environmental Research and Public Health
+* Medical Physics
 
 
 .. image:: ../media/talk.jpeg
