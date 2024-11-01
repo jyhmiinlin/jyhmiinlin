@@ -20,8 +20,20 @@
 您可以在Google Scholar、IEEE Xplore或PubMed等找到他的相關發表研究。
 
     
-除了研究工作，林醫師在臨床科技與醫學相關期刊審稿上也有貢獻，
-如協助審查Journal of Clinical Medicine, BMC Nursing, Medicine, IEEE TIP, IEEE TCI, Sensors, Tomography, Journal of Imaging等期刊。
+除了研究工作，林醫師持續協助審稿臨床科技與醫學相關期刊，包括但不限於以下期刊:
+
+* IEEE TCI
+* Journal of Clinical Medicine
+* BMC Nursing
+* Sensors
+* Tomography
+* Journal of Imaging
+* Diagnostics
+* Applied Sciences
+* Physics in Medicine and Biology
+* Animals
+* Applied System Innovation
+* International Journal of Environmental Research and Public Health
 
 
 .. image:: ../media/talk.jpeg
