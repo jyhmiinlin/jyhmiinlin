@@ -4,7 +4,8 @@
 .. meta::
    :google-site-verification: UmRRqXCCa8_gJOjFOZBNTSnp-XAQKVwE0Zmx6xoKiIg
    
-
+.. meta::
+   :robots: index, nofollow
 
 Contents
 --------

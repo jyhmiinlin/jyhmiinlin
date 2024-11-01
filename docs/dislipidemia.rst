@@ -1,6 +1,10 @@
 血脂肪過高
 =====
 
+.. meta::
+   :robots: index, nofollow
+
+
 .. _dislipidemia:
 
 什麼叫做血脂異常？
