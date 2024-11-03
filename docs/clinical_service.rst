@@ -9,7 +9,6 @@
 ----
 
 * 台大醫學士
-* 台大電機所碩士
 * PhD University of Cambridge
 
 經歷
