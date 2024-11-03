@@ -3,7 +3,7 @@
 
 .. image:: ../media/head.jpeg
    :align: center
-   :alt: head
+   :alt: 林智敏
 
 學歷
 ----
