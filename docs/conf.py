@@ -19,7 +19,7 @@
 
 project = "林智敏醫師"
 copyright = "2024, JML team"
-author = "JML team"
+author = "JML team and ChatGPT"
 
 
 # -- General configuration ---------------------------------------------------
