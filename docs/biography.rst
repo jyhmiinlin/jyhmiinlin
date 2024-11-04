@@ -45,14 +45,19 @@
 
 .. image:: ../media/ismrm_singapore.jpeg
    :align: center
-   :alt: ISMRM
+   :alt: ISMRM1
    
 * 多倫多國際會議發表研究
 
 .. image:: ../media/ismrm_toronto.jpeg
    :align: center
-   :alt: ISMRM
+   :alt: ISMRM2
    
+* 與GE MRI研究員合照
 
-<Powered by ChatGPT>
+.. image:: ../media/GE_MRIer.jpeg
+   :align: center
+   :alt: ISMRM3
+
+
 
