@@ -8,7 +8,7 @@
    weight_management
    fattyliver
    gout
-   NSAID
-   DASH
+   diet
    GLP1
+   NSAID
    law
