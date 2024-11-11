@@ -64,6 +64,13 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 #
 # html_theme = "sphinx_rtd_theme"
 html_theme = "alabaster"
+html_sidebars = {
+    '**': [
+        'about.html',
+        'navigation.html',
+        # 'searchbox.html',
+    ]
+}
 # html_theme = 'sphinx_documatt_theme'
 # import sphinx_bootstrap_theme
 # html_theme = 'insipid'
