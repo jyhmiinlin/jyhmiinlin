@@ -3,6 +3,8 @@
 
 .. _semaglutide:
 
+林智敏醫師
+
 司美格魯泰(Semaglutide)是什麼藥物？
 -----------
 
