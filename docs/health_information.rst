@@ -11,4 +11,5 @@
    diet
    GLP1
    NSAID
+   drugs
    law
