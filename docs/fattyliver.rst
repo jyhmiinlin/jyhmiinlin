@@ -33,7 +33,7 @@
 
 有無藥物可以治療脂肪肝？
 --------------------------
-
+* resmetirom可改善肝臟發炎與纖維化。
 * 有些營養品發現在動物實驗顯示可減輕肝臟發炎，但用量遠超於一般人可服用的劑量。
 * 自費營養品:奶薊草(silymarin), 穀胱甘肽(glutathione)
 * 專家對於奶薊草的看法存疑(https://www.mmh.org.tw/gi/patient_corner/faqs/faq19.htm)
