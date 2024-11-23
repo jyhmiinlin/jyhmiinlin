@@ -230,3 +230,13 @@ Lard
 
 * Imaki M, Miyoshi T, Tanada S, et al. Effect of lard and corn oil intake on serum lipids in young men. Acta Biol Hung. 1989;40(3):271-282.
 (https://pubmed.ncbi.nlm.nih.gov/2633589/)
+
+
+Red light therapy
+------------------
+
+* Powner MB, Jeffery G. Light stimulation of mitochondria reduces blood
+glucose levels. _J Biophotonics_. 2024;17(5):e202300521.
+doi:10.1002/jbio.202300521
+(https://pubmed.ncbi.nlm.nih.gov/38378043/)
+
