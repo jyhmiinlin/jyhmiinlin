@@ -235,8 +235,7 @@ Lard
 Red light therapy
 ------------------
 
-* Powner MB, Jeffery G. Light stimulation of mitochondria reduces blood
-glucose levels. _J Biophotonics_. 2024;17(5):e202300521.
+* Powner MB, Jeffery G. Light stimulation of mitochondria reduces blood glucose levels. J Biophotonics. 2024;17(5):e202300521.
 doi:10.1002/jbio.202300521
 (https://pubmed.ncbi.nlm.nih.gov/38378043/)
 
