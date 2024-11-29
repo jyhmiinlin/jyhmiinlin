@@ -21,6 +21,13 @@ Perspectives. International Journal of Molecular Sciences. 2023;
 
 (https://www.mdpi.com/1422-0067/24/2/1703#)
 
+
+GLP1 vs metformin
+------------------
+
+* Sørensen KK, Gerds TA, Køber L, et al. Comparing Glucagon-like peptide-1 receptor agonists versus metformin in drug-naive patients: A nationwide cohort study. J Diabetes. 2024;16(10):e70000. doi:10.1111/1753-0407.70000
+(https://pubmed.ncbi.nlm.nih.gov/39364788/)
+
 CEA
 -----------
 * Park JS, Choi GS, Jang YS, Jun SH, Kang H. Influence of obesity on the serum carcinoembryonic antigen value in patients with colorectal cancer. Cancer Epidemiol Biomarkers Prev. 2010;19(10):2461-2468. doi:10.1158/1055-9965.EPI-10-0569
