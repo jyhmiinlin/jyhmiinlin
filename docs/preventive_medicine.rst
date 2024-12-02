@@ -34,4 +34,22 @@ CEA
 (https://pubmed.ncbi.nlm.nih.gov/20729287/)
 
 
+Screening
+-----------
+* Brenner H, Schrotz-King P, Holleczek B, Katalinic A, Hoffmeister M. Declining Bowel Cancer Incidence and Mortality in Germany. Dtsch Arztebl Int. 2016;113(7):101-106. doi:10.3238/arztebl.2016.0101
+(https://pmc.ncbi.nlm.nih.gov/articles/PMC4791563/)
 
+
+Diet and cancer
+---------------
+* Woo HD, Park S, Oh K, et al. Diet and cancer risk in the Korean population: a meta- analysis. Asian Pac J Cancer Prev. 2014;15(19):8509-8519. doi:10.7314/apjcp.2014.15.19.8509
+(https://pubmed.ncbi.nlm.nih.gov/25339056/)
+
+* Turati F, Guercio V, Pelucchi C, La Vecchia C, Galeone C. Colorectal cancer and adenomatous polyps in relation to allium vegetables intake: a meta-analysis of observational studies. Mol Nutr Food Res. 2014;58(9):1907-1914. doi:10.1002/mnfr.201400169
+(https://pubmed.ncbi.nlm.nih.gov/24976533/)
+
+* Wang L, Lee IM, Zhang SM, Blumberg JB, Buring JE, Sesso HD. Dietary intake of selected flavonols, flavones, and flavonoid-rich foods and risk of cancer in middle-aged and older women. Am J Clin Nutr. 2009;89(3):905-912. doi:10.3945/ajcn.2008.26913
+(https://pubmed.ncbi.nlm.nih.gov/19158208/)
+
+* Millen AE, Subar AF, Graubard BI, et al. Fruit and vegetable intake and prevalence of colorectal adenoma in a cancer screening trial. Am J Clin Nutr. 2007;86(6):1754-1764. doi:10.1093/ajcn/86.5.1754
+(https://pubmed.ncbi.nlm.nih.gov/18065596/)
