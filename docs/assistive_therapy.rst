@@ -239,3 +239,6 @@ Red light therapy
 doi:10.1002/jbio.202300521
 (https://pubmed.ncbi.nlm.nih.gov/38378043/)
 
+* Shinhmar H, Grewal M, Sivaprasad S, et al. Optically Improved Mitochondrial Function Redeems Aged Human Visual Decline. J Gerontol A Biol Sci Med Sci. 2020;75(9):e49-e52. doi:10.1093/gerona/glaa155
+(https://pubmed.ncbi.nlm.nih.gov/32596723/)
+

@@ -51,5 +51,5 @@ Diet and cancer
 * Wang L, Lee IM, Zhang SM, Blumberg JB, Buring JE, Sesso HD. Dietary intake of selected flavonols, flavones, and flavonoid-rich foods and risk of cancer in middle-aged and older women. Am J Clin Nutr. 2009;89(3):905-912. doi:10.3945/ajcn.2008.26913
 (https://pubmed.ncbi.nlm.nih.gov/19158208/)
 
-* Millen AE, Subar AF, Graubard BI, et al. Fruit and vegetable intake and prevalence of colorectal adenoma in a cancer screening trial. Am J Clin Nutr. 2007;86(6):1754-1764. doi:10.1093/ajcn/86.5.1754
+* Millen AE, Subar AF, Graubard BI, et al. Fruit and vegetable intake and prevalence of colorectal adenoma in a cancer screening trial. Am J Clin Nutr. 2007;86(6):1754-1764. 
 (https://pubmed.ncbi.nlm.nih.gov/18065596/)
