@@ -30,8 +30,14 @@ GLP1 vs metformin
 
 CEA
 -----------
+
+* Desai S, Guddati AK. Carcinoembryonic Antigen, Carbohydrate Antigen 19-9, Cancer Antigen 125, Prostate-Specific Antigen and Other Cancer Markers: A Primer on Commonly Used Cancer Markers. World J Oncol. 2023;14(1):4-14. doi:10.14740/wjon1425
+(https://pmc.ncbi.nlm.nih.gov/articles/PMC9990734/)
+
 * Park JS, Choi GS, Jang YS, Jun SH, Kang H. Influence of obesity on the serum carcinoembryonic antigen value in patients with colorectal cancer. Cancer Epidemiol Biomarkers Prev. 2010;19(10):2461-2468. doi:10.1158/1055-9965.EPI-10-0569
 (https://pubmed.ncbi.nlm.nih.gov/20729287/)
+
+
 
 
 Screening
