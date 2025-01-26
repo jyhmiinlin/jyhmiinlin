@@ -123,5 +123,5 @@ http://tsim.org.tw/helth/hel327_m706.html
 
 * Bempedoic Acid 可適用於statin不耐受的病人，可降低心血管風險。(https://pubmed.ncbi.nlm.nih.gov/36876740/)
 
-
+* 衛福部已經通過寧脂德膜衣錠，可見(https://mcp.fda.gov.tw/im_detail_1/%E8%A1%9B%E9%83%A8%E8%97%A5%E8%BC%B8%E5%AD%97%E7%AC%AC028817%E8%99%9F)
 
