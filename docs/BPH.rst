@@ -7,6 +7,6 @@
 國際攝護腺症狀評分表(IPSS)
 ------------
 
-* 國際攝護腺症狀評分表(http://www.tcs.org.tw/forum/ci_info.asp)可提供疑似攝護腺肥大的男士評估之用。
+* 國際攝護腺症狀評分表(http://www.tcs.org.tw/forum/ci_info.asp)可評估攝護腺肥大的程度。
 
 
