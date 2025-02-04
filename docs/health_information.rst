@@ -9,6 +9,7 @@
    fattyliver
    gout
    diet
+   BPH
    GLP1
    NSAID
    drugs
