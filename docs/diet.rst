@@ -1,5 +1,10 @@
 .. _diet:
 
+
+.. meta::
+   :google-site-verification: UmRRqXCCa8_gJOjFOZBNTSnp-XAQKVwE0Zmx6xoKiIg
+   
+
 健康飲食
 =====
 
