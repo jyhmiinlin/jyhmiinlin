@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = "林智敏醫師"
-copyright = "2024, JML team & ChatGPT"
+copyright = "2024-2025, JML team, ChatGPT, Perplexity AI"
 author = "JML team"
 
 
