@@ -30,7 +30,9 @@ GLP1可能的副作用？(以下列出者尚未有廣泛證據證實，仍需進
 
 * 膽囊結石。
 
-* 肌肉流失，然而減重對於整體健康仍可能有益處。(https://www.investors.com/news/technology/weight-loss-drugs-how-outliers-like-biohaven-regeneron-are-trying-to-squeeze-into-the-obesity-space/?src=A00220&yptr=yahoo)
+* 肌肉流失(https://www.sciencedirect.com/science/article/abs/pii/S2213858724002729)。
+
+* 減重對於整體健康仍可能有益處。(https://www.investors.com/news/technology/weight-loss-drugs-how-outliers-like-biohaven-regeneron-are-trying-to-squeeze-into-the-obesity-space/?src=A00220&yptr=yahoo)
 
 * 口服semaglutide減重效果尚未被廣泛接受，仍有其他研究正在進行。(http://www.genetinfo.com/international-news/item/76574.html)
 
