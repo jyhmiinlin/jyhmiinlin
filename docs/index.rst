@@ -3,9 +3,7 @@
 
 .. meta::
    :google-site-verification: UmRRqXCCa8_gJOjFOZBNTSnp-XAQKVwE0Zmx6xoKiIg
-   :http-equiv: refresh
-   :content:0
-   :url: https://cantab.net/users/jml86/zh-tw
+   :http-equiv=refresh: 0; url=https://cantab.net/users/jml86/zh-tw
 Contents
 --------
 
