@@ -3,9 +3,7 @@
 
 
 .. meta::
-   :http-equiv: refresh
-   :content: 0
-   :url: https://cantab.net/users/jml86/zh-tw/weight_management
+   :http-equiv=refresh: 0; url=https://cantab.net/users/jml86/zh-tw/weight_management.html
 
 
 .. _weight_management:
