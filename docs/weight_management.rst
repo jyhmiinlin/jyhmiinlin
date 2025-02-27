@@ -1,6 +1,13 @@
 體重管理
 =====
 
+
+.. meta::
+   :http-equiv: refresh
+   :content:0
+   :urlshttps:cantab.net/users/jml86/zh-tw/weight_management.html
+
+
 .. _weight_management:
 
 林智敏醫師
