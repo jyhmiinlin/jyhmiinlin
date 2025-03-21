@@ -20,7 +20,7 @@ GLP1常見不適
 * 噁心，腹瀉
 * 情緒異常
 * 心跳快
-* 視網膜病變併發症（玻璃體出血、失明或需要玻璃體內藥物或光凝固治療的病症）的發生率顯著較高（風險比，1.76)(https://pubmed.ncbi.nlm.nih.gov/27633186/)
+* 視網膜病變併發症（玻璃體出血、失明或需要玻璃體內藥物或光凝固治療的病症）的發生率顯著較高（風險比，1.76)(https://pubmed.ncbi.nlm.nih.gov/27633186/, https://jamanetwork.com/journals/jamaophthalmology/article-abstract/2829326)
 * 停藥後體重反彈。
 
 GLP1可能的副作用？(以下列出者尚未有廣泛證據證實，仍需進一步研究)
@@ -35,8 +35,6 @@ GLP1可能的副作用？(以下列出者尚未有廣泛證據證實，仍需進
 * 減重對於整體健康仍可能有益處。(https://www.investors.com/news/technology/weight-loss-drugs-how-outliers-like-biohaven-regeneron-are-trying-to-squeeze-into-the-obesity-space/?src=A00220&yptr=yahoo)
 
 * 口服semaglutide減重效果尚未被廣泛接受，仍有其他研究正在進行。(http://www.genetinfo.com/international-news/item/76574.html)
-
-* 歐盟藥品監管機構沒有發現semaglutide與自殺意念有相關。(https://medriva.com/weight-management/eu-regulators-see-no-link-between-weight-loss-drugs-and-suicidal-thoughts-4480761)
 
 善纖達(Saxenda)是什麼藥物？
 -----------------------
@@ -59,7 +57,7 @@ GLP1可能的副作用？(以下列出者尚未有廣泛證據證實，仍需進
 
 * 有停藥後復胖的可能。
 
-* Ozempic 一週打一針。
+* Ozempic, mounjaro 一週打一針。
 
 * 口服腸泌素瑞倍適。
 
