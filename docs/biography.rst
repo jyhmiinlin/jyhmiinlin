@@ -35,7 +35,7 @@
 * Applied System Innovation
 * International Journal of Environmental Research and Public Health
 * Medical Physics
-* ISMRM, ESMRMB
+* ISMRM, ESMRMB等國際會議
 
 .. image:: ../media/talk.jpeg
    :align: center
