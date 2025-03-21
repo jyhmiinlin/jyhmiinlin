@@ -22,7 +22,7 @@
     
 除了研究工作，林醫師持續協助審稿臨床科技與醫學相關期刊，包括(但不限於)下列期刊:
 
-* IEEE TCI
+* IEEE TCI, TIP
 * Journal of Clinical Medicine
 * BMC Nursing
 * Sensors
@@ -35,7 +35,7 @@
 * Applied System Innovation
 * International Journal of Environmental Research and Public Health
 * Medical Physics
-
+* ISMRM, ESMRMB
 
 .. image:: ../media/talk.jpeg
    :align: center
